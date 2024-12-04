@@ -2,8 +2,8 @@
 
 This repository contains my personal study notes, tips, and key concepts for different **AWS certifications**.
 ### Content
-- **Cloud Practitioner Notes**: Foundational concepts, AWS services overview, and practice insights.
-- **Solutions Architect Associate Notes**: Advanced topics, architectural best practices, and scenario-based guidance.
+- **Cloud Practitioner Study Materials**: Foundational concepts, AWS services overview, and practice insights.
+- **Solutions Architect Associate Study Materials**: Advanced topics, architectural best practices, and scenario-based guidance.
 
 ### Purpose
 This repository serves as a reference for my AWS certification journey and is designed to help others preparing for these certifications.
