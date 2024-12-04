@@ -12,4 +12,4 @@ This repository serves as a reference for my AWS certification journey and is de
 Feel free to open issues or submit pull requests to enhance the notes and resources!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/eenlpe1/AWS-Certifications-Notes/blob/main/LICENSE) file for details.
