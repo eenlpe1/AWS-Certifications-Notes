@@ -1,15 +1,15 @@
-# AWS Certifications Notes 📚
+## AWS Certifications Study Materials ☁️
 
 This repository contains my personal study notes, tips, and key concepts for different **AWS certifications**.
-## Content
+### Content
 - **Cloud Practitioner Notes**: Foundational concepts, AWS services overview, and practice insights.
 - **Solutions Architect Associate Notes**: Advanced topics, architectural best practices, and scenario-based guidance.
 
-## Purpose
+### Purpose
 This repository serves as a reference for my AWS certification journey and is designed to help others preparing for these certifications.
 
-## Contributions
+### Contributions
 Feel free to open issues or submit pull requests to enhance the notes and resources!
 
-## License
+### License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/eenlpe1/AWS-Certifications-Notes/blob/main/LICENSE) file for details.
