@@ -6,10 +6,10 @@ This repository contains my personal study notes, tips, and key concepts for dif
 - **Solutions Architect Associate Study Materials**: Advanced topics, architectural best practices, and scenario-based guidance.
 
 ### Purpose
-This repository serves as a reference for my AWS certification journey and is designed to help others preparing for these certifications.
+- This repository serves as a reference for my AWS certification journey and is designed to help others preparing for these certifications.
 
 ### Contributions
-Feel free to open issues or submit pull requests to enhance the notes and resources!
+- Feel free to open issues or submit pull requests to enhance the notes and resources!
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/eenlpe1/AWS-Certifications-Notes/blob/main/LICENSE) file for details.
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/eenlpe1/AWS-Certifications-Notes/blob/main/LICENSE) file for details.
