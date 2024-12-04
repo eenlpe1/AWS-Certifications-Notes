@@ -1,6 +1,6 @@
 ## AWS Certifications Study Materials ☁️
 
-This repository contains my personal study notes, tips, and key concepts for different **AWS certifications**.
+This repository contains study materials, tips, and key concepts for different **AWS certifications**.
 ### Content
 - **Cloud Practitioner Study Materials**: Foundational concepts, AWS services overview, and practice insights.
 - **Solutions Architect Associate Study Materials**: Advanced topics, architectural best practices, and scenario-based guidance.
