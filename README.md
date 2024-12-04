@@ -12,8 +12,9 @@ This repository contains study materials, tips, and key concepts for different *
 - Feel free to open issues or submit pull requests to enhance the notes and resources!
 
 ### Additional Study Materials:
-- [TutorialsDojo Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
-- [DigitalCloud Training Cheat Sheets](https://digitalcloud.training/aws-analytics-services/)
+- **AWS Cheat Sheets**
+     - [TutorialsDojo Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
+     - [DigitalCloud Training Cheat Sheets](https://digitalcloud.training/aws-analytics-services/)
 
 ### License
 - This project is licensed under the MIT License. See the [LICENSE](https://github.com/eenlpe1/AWS-Certifications-Notes/blob/main/LICENSE) file for details.
